@@ -1,7 +1,7 @@
 # Flir_lepton
 Read image from Flir Lepton with FT232x
 
-## Requier
+## Require
 * [libmpsse](https://github.com/devttys0/libmpsse)
 * matplotlib
 
