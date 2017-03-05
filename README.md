@@ -1,6 +1,8 @@
 # Flir_lepton
 Read image from Flir Lepton and Lepton 3 with FT232x
 
+![GUI image](https://github.com/penguintantin/Flir_lepton/blob/master/lepton_gui2.png?raw=true)
+
 ## Require
 * [libmpsse](https://github.com/devttys0/libmpsse)
 * matplotlib
