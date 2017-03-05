@@ -1,5 +1,5 @@
 # Flir_lepton
-Read image from Flir Lepton with FT232x
+Read image from Flir Lepton (also Lepton 3) with FT232x
 
 ## Require
 * [libmpsse](https://github.com/devttys0/libmpsse)
