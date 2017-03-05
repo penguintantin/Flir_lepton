@@ -1,7 +1,7 @@
 # Flir_lepton
 Read image from Flir Lepton with FT232x
 
-Connection
+## Connection
 | FT232x        | Flir Lepton Breakout  |
 | ------------- |:-------------:|
 | VCCD(3.3V)      | Vin |
