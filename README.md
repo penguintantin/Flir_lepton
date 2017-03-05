@@ -4,6 +4,7 @@ Read image from Flir Lepton with FT232x
 ## Require
 * [libmpsse](https://github.com/devttys0/libmpsse)
 * matplotlib
+* numpy
 
 ## Connection
 | FT232x        | Flir Lepton Breakout  |
